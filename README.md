@@ -19,6 +19,9 @@ The executables will be placed in the `bin` directory. From within `build`, you 
 ```
 ../bin/<name-of-parent-directory> -f ../map.osm
 ```
+A map.osm is included. However, you can give your own map file.
+Once the executable file is run, the program will ask for a Start and Finish point coordinates.
+Then the map is visualized with the shortest path from the Start to the Finish point. 
 
 ## Testing
 
